@@ -1,8 +1,8 @@
-<h1>Olá! eu sou Pedro Henrique Matos Neves, tenho 16 anos e este é meu perfil no Git Hub</h1>
+<h1>👋Olá! eu sou Pedro Henrique Matos Neves, tenho 16 anos e este é meu perfil no Git Hub</h1>
 
-<h2>Estou aprendendo a desenvolver sites</h2>
+<h2>💻Estou aprendendo a desenvolver sites</h2>
 
-<h3>Atualmente eu sei programar nas linguagens:</h3>
+<h3>🌱Atualmente eu sei programar nas linguagens:</h3>
 
 <ul>
   <li>HTML</li>
@@ -10,7 +10,7 @@
   <li>JavaScript</li>
 </ul>
 
-<h3>Alguns projetos que eu fiz com ajuda do meu professor/colegas:</h3>
+<h3>📂Alguns projetos que eu fiz com ajuda do meu professor/colegas:</h3>
 
 <ul>
   <li>Space For Men</li>
@@ -27,7 +27,7 @@ Esse projeto foi uma base para me ajudar em futuros projetos</p>
 
 <br>
 
-Fale comigo pelo meu email: pedroseven134@gmail.com
+📫Fale comigo pelo meu email: pedroseven134@gmail.com
 <!---
 pedrin710/pedrin710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
