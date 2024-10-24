@@ -28,7 +28,3 @@ Esse projeto foi uma base para me ajudar em futuros projetos</p>
 <br>
 
 📫Fale comigo pelo meu email: pedroseven134@gmail.com
-<!---
-pedrin710/pedrin710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
